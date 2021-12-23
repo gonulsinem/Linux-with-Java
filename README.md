@@ -1,8 +1,6 @@
 # Linux_with_Java
 
-## VM Kurulumu'dan sonra
-
-## Ubuntu Kurulumu
+## Ubuntu Kurulumu  :woman_technologist:
 
 ![image](https://user-images.githubusercontent.com/82284108/147258482-657657a5-9545-44c5-be74-a3e14a57d9d2.png)
 
