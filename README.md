@@ -1,4 +1,4 @@
-# Linux_with_Java
+# Linux with Java
 
 ## Ubuntu Kurulumu  :woman_technologist:
 
